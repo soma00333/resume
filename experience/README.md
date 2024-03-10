@@ -9,3 +9,7 @@
 | 2018/01 - 2018/03 | ZUU Co.,Ltd.             | Intern, Backend Engineer           | [detail](https://github.com/soma00333/resume/blob/main/experience/2018_01-2018_03.md) |
 
 # Education
+
+| term              | institute               | degree                  | detail                                                                                           | tool      |
+| ----------------- | ----------------------- | ----------------------- | ------------------------------------------------------------------------------------------------ | --------- |
+| 2014/04 - 2018/03 | The University of Tokyo | Bachelor of Engineering | Design of a preoperative evaluation system for elderly patients using a generalized linear model | R, Python |
