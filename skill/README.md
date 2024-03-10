@@ -44,7 +44,7 @@
 
 ### Data
 
-- Vertex AI Platform
+- Vertex AI
 - BigQuery
 - Pub/Sub
 - Looker
