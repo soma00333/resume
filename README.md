@@ -13,3 +13,9 @@ Software Engineer, Site Reliability Engineer in Tokyo, Japan.
 | interest      | [detail](https://github.com/soma00333/resume/blob/main/interest/README.md)      |
 | for-recruiter | [detail](https://github.com/soma00333/resume/blob/main/for-recruiter/README.md) |
 | skill         | [detail](https://github.com/soma00333/resume/blob/main/skill/README.md)         |
+
+# Language
+- Japanese
+  - Native or bilingual proficiency
+- English
+  - Full professional proficiency
