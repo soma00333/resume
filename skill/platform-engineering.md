@@ -1,12 +1,5 @@
 # Platform Engineering Skills
 
-## Archiitect Design
-
-- 組織とプロダクトがスケールする中、複数 Cloud Service との連携や Scalability,Complexity を考慮したアーキテクチャの全体設計ができる
-- 社内のエンジニアやビジネスサイド、Cloud Service の担当者等のステークホルダーと連携し、現状のメンバーのスキルや事業状況、プロダクトの将来性を踏まえてより最善なインフラストラクチャの設計＆構築、持続的な改善を行うことができる
-- アーキテクチャ自体や技術選定の経緯について、ドキュメントに残して他社に伝えられる
-- プロダクトの将来のユーザ数や PV から負荷を予測し、負荷テストを実施できる
-
 ## Architectural Design
 
 - Capable of overarching architectural design that considers the scalability, complexity, and integration with multiple cloud services as the organization and products scale.
