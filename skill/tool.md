@@ -1,0 +1,28 @@
+# Tools
+
+- Auth0
+- ChatGPT
+- Claude
+- CodeRabbit
+- Confluence
+- Cursor
+- Datadog
+- Expo
+- Gather
+- GitHub
+- GitHub Actions
+- GitHub Copilot
+- GitHub Copilot Chat
+- GitHub Copilot Chat in GitHub.com
+- GitHub Copilot for CLI
+- GitHub Copilot for Pull Requests
+- GitHub Copilot Enterprise
+- Notion
+- Redash
+- SendGrid
+- Slack
+- SonarQube
+- tl;dv
+- Vercel
+- VSCode
+- WandB
