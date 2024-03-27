@@ -1,3 +1,11 @@
+# Overview
+- Tackled technically challenging issues.
+- Deepened my expertise in technical areas essential for my target position.
+- Delivered significant business impact.
+- Demonstrated leadership.
+- Collaborated with internal and external teams.
+- Proposed innovative ideas.
+  
 # Work Experience
 
 | term              | company                  | title                              | detail                                                                                |
