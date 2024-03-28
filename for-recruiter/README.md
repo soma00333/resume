@@ -18,6 +18,7 @@
 # Timing of Job Change
 
 - Undecided
+    - I find my current job to be quite fulfilling
 - Always open to work
 
 # Work Style
