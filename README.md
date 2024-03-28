@@ -28,5 +28,6 @@ I'm a Software Engineer and Site Reliability Engineer at startups in Tokyo, Japa
 - English
   - Full professional proficiency
 
-# Resume (Casual)
-https://my.visualcv.com/soma00333/
+# Short Resume
+https://soma00333.github.io/file/resume.pdf
+
