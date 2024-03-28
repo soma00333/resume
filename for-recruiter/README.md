@@ -1,5 +1,21 @@
-# Overview
-## WIP
-技術とロマンの両立
-技術経営
-テックでマーケットを牽引
+# Position
+
+- Senior SRE
+- Senior Platform Engineer
+
+# Career Path
+
+- IC career path
+
+# Salary
+
+- Full-time Employee
+    - Annual salary of more than ¥10 million or $70k
+- Contract Work (Side Job)
+    - Hourly rate of more than ¥9k (before consumption tax) or $55 (before consumption tax)
+    - Around 40 hours per month (negotiable depending on the project)
+
+# Timing of Job Change
+
+- Undecided
+- Always open to work
