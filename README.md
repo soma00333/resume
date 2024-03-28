@@ -26,7 +26,7 @@ I'm a Software Engineer and Site Reliability Engineer at startups in Tokyo, Japa
 - Japanese
   - Native or bilingual proficiency
 - English
-  - Full professional proficiency
+  - Professional working proficiency
 
 # Short Resume
 https://soma00333.github.io/file/resume.pdf
