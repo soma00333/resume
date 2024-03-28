@@ -2,8 +2,16 @@
 
 Hi, I'm Soma.
 
-Software Engineer, Site Reliability Engineer in Tokyo, Japan.
+I'm a Software Engineer and Site Reliability Engineer at startups in Tokyo, Japan.
 
+# Contact
+- Email: soma03432303[at]gmail.com
+- [Facebook](https://www.facebook.com/soma.utsumi/)
+- [X](https://twitter.com/soma00333)
+- [LinkedIn](https://www.linkedin.com/in/soma-utsumi-278a87178/)
+- [GitHub](https://github.com/soma00333)
+- [Hugging Face](https://huggingface.co/soma00333)
+  
 # Contents
 
 | content       | detail                                                                          |
