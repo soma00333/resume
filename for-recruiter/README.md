@@ -28,4 +28,4 @@
     - My preference is Asia time.
 - I currently live in Tokyo, but I'm open to relocating if necessary
 - I'm willing to relocate if the company can sponsor a visa
-    - It's something I'm looking to explore soon
+    - This is exactly what I've been looking for
